@@ -1,0 +1,12 @@
+
+
+.main-body {
+    padding: 32px;
+    background: lightgreen;
+    height: 100vh;
+}
+
+.main-content {
+    width: 60%;
+    margin-top: 50px;
+}
